@@ -57,7 +57,9 @@ Add `gem 'rchardet19'` to your Gemfile and run `bundle`.
 
 ## Requirements
 
-*rCharDet19* is tested in OS X 10.6.6 using Ruby 1.8.7 and 1.9.2.
+*rCharDet19* is tested in 
+- OS X 10.6.6 using Ruby 1.8.7 and 1.9.2.
+- Ubuntu 12.10 using Ruby 1.9.3 and 2.0.0-p0
 
 ## License
 
