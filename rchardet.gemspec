@@ -16,6 +16,7 @@ Gem::Specification.new do |s|
   s.require_paths    = ["lib"]
   s.has_rdoc         = false # TODO: fix
   s.extra_rdoc_files = ['README.markdown', 'COPYING']
+  s.license          = 'LGPL-2.1'
   
   s.add_development_dependency('rspec')
 end
